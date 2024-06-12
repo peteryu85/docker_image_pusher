@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 python:alpine3.19
+portainer/portainer-ce:latest
