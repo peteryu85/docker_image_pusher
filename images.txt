@@ -6,3 +6,4 @@
 nginx
 python:alpine3.19
 portainer/portainer-ce:latest
+tomcat
