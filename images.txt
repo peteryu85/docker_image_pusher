@@ -8,3 +8,4 @@ python:alpine3.19
 portainer/portainer-ce:latest
 tomcat
 louislam/uptime-kuma:1
+yidadaa/chatgpt-next-web
